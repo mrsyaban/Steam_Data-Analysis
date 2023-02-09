@@ -1,4 +1,4 @@
-# STEAM DATA ANALYSIS PER 2021
+# Steam Game Analysis (2021)
 > Composed to fulfill Tubes KU1102 Pengenalan Komputer
 
 ## Program Description
